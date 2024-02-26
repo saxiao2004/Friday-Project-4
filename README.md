@@ -20,3 +20,10 @@ The following would include a read-me file for the following 3 previous projects
 5. Display the generated numbers with proper spacing: Comments indicating that the program is formatting and displaying the generated numbers.
 6.	print(f"Your PowerBall numbers are: {powerball_numbers}"): Prints the generated PowerBall numbers.
 7.	if __name__ == "__main__":: Ensures that the program runs when executed directly.
+
+# Friday Project 3 QuizBowl
+1. def study_trivia_questions():: Defines the main function for the Trivia Question Study Program.
+2. Define a dictionary with trivia questions and answers: Comments indicating the use of a dictionary to store questions and correct answers.
+3. for question, correct_answer in trivia_dict.items():: Iterates through the dictionary to ask each trivia question.
+4. print(f"Sorry, the correct answer is: {correct_answer}\n"): Displays the correct answer when the user provides an incorrect response.
+5. if __name__ == "__main__":: Ensures that the program runs when executed directly.
