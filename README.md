@@ -18,3 +18,5 @@ The following would include a read-me file for the following 3 previous projects
 3. Ask the user if they want PowerBall numbers: Comments indicating that the program is prompting the user for input.
 4. white_ball_1 = random.randint(1, 69): Generates a random number for the first white ball.
 5. Display the generated numbers with proper spacing: Comments indicating that the program is formatting and displaying the generated numbers.
+6.	print(f"Your PowerBall numbers are: {powerball_numbers}"): Prints the generated PowerBall numbers.
+7.	if __name__ == "__main__":: Ensures that the program runs when executed directly.
